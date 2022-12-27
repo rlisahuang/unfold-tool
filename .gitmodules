@@ -1,8 +1,8 @@
 [submodule "vscode"]
 	path = vscode
-	url = https://github.com/rlisahuang/vscode
+	url = ../vscode.git
         branch = main
 [submodule "html-insider"]
 	path = html-insider
-	url = https://github.com/rlisahuang/html-insider
+	url = ../html-insider.git
         branch = main
