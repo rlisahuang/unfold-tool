@@ -38,7 +38,7 @@ The simplest way to build and run Unfold is directly within the terminal. To do 
 
 
 ## How to Use
-1. Create or open a vanilla-JavaScript web application with an HTML file and a JavaScript file in Unfold. We have provided some examples (tasks used in our user study) that you could try out. 
+1. Create or open a vanilla-JavaScript web application with an HTML file and a JavaScript file in Unfold. We have provided some examples (in `examples/`, two tasks used in our user study and the task in the demo video) that you could try out. 
 2. In a terminal, navigate to the root directory of the opened web application. Run the following command:
 `live-server`. This will start a process that live-watches changes to the web application while opening the application in your default browser. You can close the browser tab while keeping this process running in the background.
 3. Back in Unfold, open the entire directory of the opened web application.

@@ -1,0 +1,14 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+}
+
+.cover {
+  display: block;
+}
+
+.pic {
+  display: none;
+}
