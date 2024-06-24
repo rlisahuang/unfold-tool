@@ -6,7 +6,7 @@ CURR_DIR=$PWD;
 if [[ -d vscode ]]; then
     cd vscode;
 else
-    echo "Please navigate to the root of the StepNTune repository before running this script.";
+    echo "Please navigate to the root of the Unfold repository before running this script.";
     exit 1;
 fi;
 
