@@ -4,7 +4,10 @@ set -euo pipefail
 CURR_DIR=$PWD
 
 # install global depedencies
-npm install -g live-server
+sudo npm install -g live-server
+
+# get submodules
+git submodule update --init --remote
 
 # install local dependencies and build from source
 if [[ -d vscode ]]; then
