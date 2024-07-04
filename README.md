@@ -42,12 +42,13 @@ The simplest way to build and run Unfold is directly within the terminal. To do 
 
 
 ## How to Use
-1. Create or open a vanilla-JavaScript web application with an HTML file and a JavaScript file in Unfold. We have provided some examples (in `examples/`, two tasks used in our user study and the task in the demo video) that you could try out. 
-2. In a terminal, navigate to the root directory of the opened web application. Run the following command:
+1. Create or open a vanilla-JavaScript web application with an HTML file and a JavaScript file in Unfold. We have provided some examples (in `examples/`, two tasks used in our user study and the task in the demo video) that you could try out.
+2. Unfold works best under the VSCode Light theme. You could change that by pressing `Shift+Ctrl/Cmd+P` and typing in `theme`.
+3. In a terminal, navigate to the root directory of the opened web application. Run the following command:
 `live-server`. This will start a process that live-watches changes to the web application while opening the application in your default browser. You can close the browser tab while keeping this process running. However, do NOT kill the live-server process in your terminal.
-3. Back in Unfold, open the entire directory of the opened web application (e.g., `examples/calculator`).
-4. Will see a "View" button at the upper right corner in Unfold. Click and select the main HTML file of your web application for rendering when prompted. You will see the application rendered to the right of your screen.
-5. Open up a JavaScript file for your application and start using Unfold as described in the paper.
+4. Back in Unfold, open the entire directory of the opened web application (e.g., `examples/calculator`).
+5. Will see a "View" button at the upper right corner in Unfold. Click and select the main HTML file of your web application for rendering when prompted. You will see the application rendered to the right of your screen.
+6. Open up a JavaScript file for your application and start using Unfold as described in the paper.
 
 
 ## Architecture
