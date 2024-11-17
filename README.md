@@ -58,4 +58,4 @@ In this repository, there are two submodules:
 
 
 ## How to Cite
-Guidelines to follow after VL/HCC '24 proceeding becomes available.
+R. L. Huang, P. J. Guo and S. Lerner, "UNFOLD: Enabling Live Programming for Debugging GUI Applications," 2024 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), Liverpool, United Kingdom, 2024, pp. 306-316, doi: 10.1109/VL/HCC60511.2024.00041. 
